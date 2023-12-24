@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: eb382d53d7f5b63458f911fad0015cf0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles: []
+  errors:
+  - "Could not generate asset path for '../../../../\uC5D0\uC14B/\uB9F5/Galacti-Chrons
+    Sci-Fi Warehouse Pack/tilesets/SciFi_Warehouse_E.png'"
+  - "Missing texture asset: ../../../../\uC5D0\uC14B/\uB9F5/Galacti-Chrons Sci-Fi
+    Warehouse Pack/tilesets/SciFi_Warehouse_E.png"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 13
+  pixelsPerUnit: 20
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
