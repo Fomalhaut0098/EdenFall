@@ -3,6 +3,17 @@
 
 **개인 부문 1등!**
 
+![슬라이드1](https://github.com/Teclare/EdenFall/assets/43699404/730bad89-ba94-40b3-95ab-dcb6ed9d6f21)
+![슬라이드2](https://github.com/Teclare/EdenFall/assets/43699404/2be89d06-40e4-4f0f-b68e-1d676dcfefd6)
+![슬라이드3](https://github.com/Teclare/EdenFall/assets/43699404/d96d8b07-1fb2-453b-a829-7e0b229d4e0a)
+![슬라이드4](https://github.com/Teclare/EdenFall/assets/43699404/0bb29c67-936c-45f5-98b2-5ac6d6472461)
+![슬라이드5](https://github.com/Teclare/EdenFall/assets/43699404/d6e944cf-ea9f-4d54-9e1e-ea7ce64e5434)
+![슬라이드6](https://github.com/Teclare/EdenFall/assets/43699404/af83fbe3-2446-4c43-ad52-6be96c104797)
+![슬라이드7](https://github.com/Teclare/EdenFall/assets/43699404/7bfdd798-8852-486a-a6e7-14ac2bcc1e5f)
+![슬라이드8](https://github.com/Teclare/EdenFall/assets/43699404/527b9443-686f-47d8-ae35-c63a6e3c55bf)
+![슬라이드9](https://github.com/Teclare/EdenFall/assets/43699404/74e17015-1812-446c-bc89-ee8e6aa90f1e)
+![슬라이드10](https://github.com/Teclare/EdenFall/assets/43699404/f2f9eb65-efe1-4c80-ae5f-4e17500de9df)
+
 ## 리포지토리 설명
 * UnityProject: 게임의 유니티 프로젝트 → 다운로드 후 실행 가능
 * GameResource: 게임 제작에 사용된 자체 제작 리소스
