@@ -602,7 +602,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uD559\uACFC 2023125005 \uAE40\uB3D9\uD604"
+  m_Text: '@Teclare | Fomalhaut'
 --- !u!222 &338038006
 CanvasRenderer:
   m_ObjectHideFlags: 0
