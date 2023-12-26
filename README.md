@@ -3,6 +3,8 @@
 
 **개인 부문 1등!**
 
+[**Download v1.0**](https://github.com/Teclare/EdenFall/releases/tag/v1.0)
+
 ![슬라이드1](https://github.com/Teclare/EdenFall/assets/43699404/730bad89-ba94-40b3-95ab-dcb6ed9d6f21)
 ![슬라이드2](https://github.com/Teclare/EdenFall/assets/43699404/2be89d06-40e4-4f0f-b68e-1d676dcfefd6)
 ![슬라이드3](https://github.com/Teclare/EdenFall/assets/43699404/d96d8b07-1fb2-453b-a829-7e0b229d4e0a)
